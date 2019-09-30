@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaibooshe.hangtee.com/sitemap.xml
